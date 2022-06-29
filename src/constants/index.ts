@@ -1,6 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WDEV } from 'cypheriumswap'
 import { AbstractConnector } from '@web3-react/abstract-connector'
-import { routerv2 } from '../moonbase_address.json'
+import { routerv2 } from '../cypherium_address.json'
 
 import { injected, walletconnect } from '../connectors'
 //fortmatic, portis, walletconnect, walletlink, lattice

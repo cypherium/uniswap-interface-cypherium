@@ -1,6 +1,6 @@
 import { ChainId } from 'cypheriumswap'
 import MULTICALL_ABI from './abi.json'
-import { multicall } from '../../moonbase_address.json'
+import { multicall } from '../../cypherium_address.json'
 
 const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {
   [ChainId.CYPHER_MAINNET]: '0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441',

@@ -18,7 +18,7 @@ If you use the [following repository](https://github.com/albertov19/uniswap-cont
 
 ## Cypherium Ropsten Addresses
 
-To make the interface work with your Cypherium Ropsten deployment, you need to modify the `./src/moonbase_address.json`. Also make sure that you modify the addresses in the SDK repo.
+To make the interface work with your Cypherium Ropsten deployment, you need to modify the `./src/cypherium_address.json`. Also make sure that you modify the addresses in the SDK repo.
 
 On Cypherium Ropsten, these are the following addresses:
 
